@@ -1,0 +1,17 @@
+Hi. My name is Michael.   As a fellow community organizer for devs, I wanted to extend a warm invite to you and your community.  Google devs of Central Florida is hosting the DevFest GemJam on Oct 25! 
+
+DevFest GemJam is a week-long hackathon event focused on building GenAI-powered applications to promote creativity and collaboration. The event encourages the responsible and ethical use of AI to augment human problem-solving. Participants will use Google's Gemini AI suite, Google Cloud Platform, and Firebase to develop their projects. The event features tracks for Software Prototyping and App Design. It includes an in-person kickoff on October 25, followed by a week of building, and concludes with a Demo Day and celebration.
+
+You can learn about our featured speakers and workshops here:
+- https://devfestflorida.com/keynote
+- https://devfestflorida.com/speakers
+
+Can you help spread the word? We have easy share links below and a special discount code for your members (FLASHSALE - 10% off!).
+
+As a community-run/non-profit dev conference, we really appreciate you help in sharing DevFest with your network.  Let's grow Orlando's IT professionals, early stage devs and tech scene together!
+
+https://www.eventbrite.com/e/devfest-gemjam-tickets-1032640023107?aff=oddtdtcreator
+
+Thanks,
+
+Michael Rosario, GoogleDevsCentralFlorida.com
